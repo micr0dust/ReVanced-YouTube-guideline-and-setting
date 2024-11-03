@@ -1,0 +1,73 @@
+{
+    "isVip": false,
+    "serverAddress": "https:\/\/sponsor.ajay.app",
+    "dontShowNotice": false,
+    "showTimeWithSkips": true,
+    "minDuration": 0,
+    "trackViewCount": true,
+    "skipCount": 3,
+    "minutesSaved": 0.5265499949455261,
+    "categorySelections": [
+      {
+        "name": "sponsor",
+        "option": 1
+      },
+      {
+        "name": "selfpromo",
+        "option": 1
+      },
+      {
+        "name": "interaction",
+        "option": 1
+      },
+      {
+        "name": "poi_highlight",
+        "option": 0
+      },
+      {
+        "name": "intro",
+        "option": 1
+      },
+      {
+        "name": "outro",
+        "option": 1
+      },
+      {
+        "name": "preview",
+        "option": 1
+      },
+      {
+        "name": "music_offtopic",
+        "option": 2
+      }
+    ],
+    "barTypes": {
+      "sponsor": {
+        "color": "#00D400"
+      },
+      "selfpromo": {
+        "color": "#FFFF00"
+      },
+      "interaction": {
+        "color": "#CC00FF"
+      },
+      "poi_highlight": {
+        "color": "#FF1684"
+      },
+      "intro": {
+        "color": "#00FFFF"
+      },
+      "outro": {
+        "color": "#0202ED"
+      },
+      "preview": {
+        "color": "#008FD6"
+      },
+      "filler": {
+        "color": "#7300FF"
+      },
+      "music_offtopic": {
+        "color": "#FF9900"
+      }
+    }
+  }
